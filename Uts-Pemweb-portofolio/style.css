@@ -1,0 +1,27 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+body{
+    min-height: 3000px;
+}
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #fff;
+}
+.jumbotron .display-4{
+    font-style: bold;
+}
+
+
+#about{
+    background-color: #000;
+}
+#projects{
+    background-color: #000;
+}
+
+section {
+    padding-top: 6rem;
+}
